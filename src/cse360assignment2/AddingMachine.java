@@ -69,6 +69,6 @@ public class AddingMachine {
    * Description: Clears the program inputs
    */
   public void clear() {
-    totalString = "";
+    totalString = "0";
   }
 }
